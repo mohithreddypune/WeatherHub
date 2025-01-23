@@ -39,7 +39,7 @@ const connection = mysql.createConnection({
     host : 'localhost',
     database : 'weatherhub',
     user : 'root',
-    password : 'Dhanu931@'
+    password : 'Mohith@369'
 });
 connection.connect(function(error){
     if(error) {
